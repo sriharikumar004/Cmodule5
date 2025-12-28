@@ -83,7 +83,8 @@
     return 0;
 }
 # Output:
-![Uploading image.png…]()
+<img width="498" height="261" alt="image" src="https://github.com/user-attachments/assets/ca8ce165-06b6-4c0f-95d7-8d2d1b48215a" />
+
 
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
