@@ -309,6 +309,7 @@ Thus, the program was implemented and executed successfully, and the required ou
     return 0;
 }
 # Output:
+<img width="394" height="335" alt="image" src="https://github.com/user-attachments/assets/a0985311-614b-419a-8247-026841d8ec38" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
