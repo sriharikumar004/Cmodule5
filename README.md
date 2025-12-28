@@ -83,6 +83,7 @@
     return 0;
 }
 # Output:
+![Uploading image.png…]()
 
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
